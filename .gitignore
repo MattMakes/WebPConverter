@@ -1,0 +1,17 @@
+Imazen.WebP.dll
+Imazen.WebP.pdb
+Imazen.WebP.xml
+*.FileListAbsolute.txt
+*.cache
+bin/
+obj/
+*.suo
+packages/**/*
+.paket/paket.exe
+paket-files
+.fake
+docs/content/license.md
+docs/content/release-notes.md
+docs/output/
+*.dll
+src/Imazen.Test.Webp/Imazen.Test.Webp.csproj.user
