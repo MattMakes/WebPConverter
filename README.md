@@ -1,5 +1,5 @@
 # WebPConverter
-Console app allowing user to convert images to WebP format (currently supporting .jpg and .png).
+Console app allowing user to convert images to lossless WebP format (currently supporting .jpg and .png).
 
 The Imazen project libwebp-net project was updated in this solution to allow for iterated use over many files in a directory and to maintain transparency on png images. Please open issues if you would like for me to add further file format support or PR to update this console app as needed.
 
